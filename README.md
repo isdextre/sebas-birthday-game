@@ -1,4 +1,4 @@
-# 🎮 Operación Cumpleaños de Sebas
+# 🎮 Operación Cumpleaños de Sebas 
 
 <p align="center">
   <img src="docs/screenshots/01-portada.png" alt="Pantalla de portada del juego" width="100%">
