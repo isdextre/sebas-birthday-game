@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://feliz-cumple-sebas.sofiadextre09.workers.dev/">
+    <img alt="Jugar ahora" src="https://img.shields.io/badge/%E2%96%B6_Jugar_ahora-feliz--cumple--sebas.workers.dev-f38020?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES%20Modules-f7df1e?logo=javascript&logoColor=000">
   <img alt="Canvas 2D" src="https://img.shields.io/badge/Render-HTML5%20Canvas-e34c26?logo=html5&logoColor=fff">
   <img alt="Sin backend" src="https://img.shields.io/badge/Backend-ninguno-informational">
@@ -103,6 +109,6 @@ npm test               # fondos por tramo, reparto y unicidad de gotitas, regalo
 npm run test:journey   # bot que completa las 40 pantallas y los 3 regalos
 ```
 
-## 👤 Autor
+## 👤 Autora
 
-Hecho por **Angel Pucho** — ingeniería electrónica (UNI) · sistemas embebidos y procesamiento de señales/IA (Télécom Paris) — como regalo de cumpleaños y como ejercicio de diseño de juegos 2D desde cero: física de plataformas, animación por sprite-sheets, generación procedural de fondos y audio sintetizado, sin motor de juego externo.
+Hecho por **Sofia Dextre** como regalo de cumpleaños y ejercicio de diseño de juegos 2D desde cero — física de plataformas, sprite-sheets, fondos procedurales y audio sintetizado, sin motor externo.
