@@ -105,4 +105,4 @@ npm run test:journey   # bot que completa las 40 pantallas y los 3 regalos
 
 ## 👤 Autor
 
-Hecho por **Angel Pucho** — ingeniería electrónica (UNI) · sistemas embebidos y procesamiento de señales/IA (Télécom Paris) — como regalo de cumpleaños y como ejercicio de diseño de juegos 2D desde cero: física de plataformas, animación por sprite-sheets, generación procedural de fondos y audio sintetizado, sin motor de juego externo.
+Hecho por **Sofia Dextre** 
