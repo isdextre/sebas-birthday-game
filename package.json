@@ -1,0 +1,12 @@
+{
+  "name": "operacion-cumpleanos-sebas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/serve.mjs",
+    "test:journey": "node scripts/playthrough.mjs"
+  }
+}
