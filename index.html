@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#112b2a" />
+    <meta name="description" content="Operación cumpleaños de Sebas: una aventura de plataformas continua." />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <title>Operación cumpleaños de Sebas</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <a class="wordmark" href="./" aria-label="Operación cumpleaños de Sebas, inicio">
+          <span class="wordmark-title">OPERACIÓN CUMPLEAÑOS<br><b>DE SEBAS</b><small>Encuentra los regalos y llega a la fiesta</small></span>
+        </a>
+        <div class="topbar-controls">
+          <label class="volume-control" for="volume">
+            <span>Volumen</span>
+            <input id="volume" type="range" min="0" max="100" value="35" aria-label="Volumen" />
+            <output id="volume-value" for="volume">35 %</output>
+          </label>
+          <button id="pause-button" class="quiet-button pause-button" type="button" aria-label="Pausar" hidden>
+            Pausa
+          </button>
+        </div>
+      </header>
+
+      <section class="game-frame" aria-label="Videojuego">
+        <div class="canvas-wrap">
+          <canvas id="game-canvas" width="960" height="540" aria-label="Escenario del videojuego">
+            Tu navegador no admite Canvas 2D.
+          </canvas>
+          <div id="cover" class="cover-screen">
+            <div class="start-corner"><button id="start-button" class="primary-button" type="button">COMENZAR!</button>
+              <p id="cover-audio-note" class="cover-note" aria-live="polite">
+                PC: A/D · ESPACIO · J · K
+              </p>
+            </div>
+
+          </div>
+
+          <div id="pause-overlay" class="state-overlay" hidden>
+            <div class="overlay-card">
+              <p class="eyebrow">Partida en pausa</p>
+              <h2 id="pause-title">Pausa</h2>
+              <p id="pause-reason">La simulación está detenida.</p>
+              <button id="resume-button" class="primary-button" type="button">Continuar</button>
+            </div>
+          </div>
+
+          <div id="orientation-overlay" class="state-overlay orientation-overlay" hidden>
+            <div class="overlay-card">
+              <p class="eyebrow">Aventura pausada</p>
+              <h2>Gira tu celular para comenzar la aventura</h2>
+              <p>Al volver a horizontal, continuarás desde el mismo lugar.</p>
+            </div>
+          </div>
+          <div id="ready-countdown" class="ready-countdown" aria-live="assertive" hidden></div>
+        </div>
+
+        <section class="hud" aria-label="Estado de la partida">
+          <div class="hud-stat"><span class="stat-label">Vidas</span><strong id="lives-value">3</strong></div>
+          <div class="hud-stat"><span class="stat-label">Regalos</span><strong id="gifts-value">0/3</strong></div>
+          <div class="hud-stat"><span class="stat-label">Gotitas</span><strong id="drops-value">0/150</strong></div>
+          <div class="hud-stage"><span id="stage-value">Portada</span><span id="shield-value">Escudo: bloqueado</span></div>
+        </section>
+
+
+
+        <nav class="touch-controls" aria-label="Controles táctiles" hidden>
+          <div class="touch-directions">
+            <button type="button" data-control="left" aria-label="Mover a la izquierda">IZQ</button>
+            <button type="button" data-control="right" aria-label="Mover a la derecha">DER</button>
+          </div>
+          <div class="touch-actions">
+            <button type="button" data-control="jump" aria-label="Saltar o subir">Saltar</button>
+            <button type="button" data-control="water" aria-label="Disparar chorro de agua">Agua</button>
+            <button type="button" data-control="shield" aria-label="Activar escudo burbuja">Escudo</button>
+          </div>
+        </nav>
+      </section>
+
+      <footer class="instructions">
+        <p><strong>Teclado:</strong> ←/→ o A/D mover · Espacio saltar/subir · J agua · K escudo · Esc/P pausa</p>
+        <p id="status-message" aria-live="polite">Comienza para iniciar el recorrido.</p>
+      </footer>
+    </main>
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>

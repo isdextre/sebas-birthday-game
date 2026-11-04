@@ -1,0 +1,4140 @@
+{
+  "description": "Original RGB retained; connected checker removed through alpha. Uniform sprite crops are centered horizontally and aligned at the feet. Backgrounds and reference photo are byte-identical copies.",
+  "assets": {
+    "bulbasaur": {
+      "file": "bulbasaur.png",
+      "source_size": [
+        1200,
+        896
+      ],
+      "columns": 4,
+      "rows": 3,
+      "frame_size": [
+        239,
+        212
+      ],
+      "aligned_sheet": "hojas_alineadas/bulbasaur.png",
+      "background_removed_percent": 67.94,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/bulbasaur/01.png",
+          "source_cell": [
+            0,
+            0,
+            300,
+            299
+          ],
+          "trim_box_in_cell": [
+            52,
+            73,
+            248,
+            261
+          ],
+          "offset": [
+            21,
+            16
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            239,
+            212
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/bulbasaur/02.png",
+          "source_cell": [
+            300,
+            0,
+            600,
+            299
+          ],
+          "trim_box_in_cell": [
+            52,
+            73,
+            248,
+            261
+          ],
+          "offset": [
+            21,
+            16
+          ],
+          "atlas_rect": [
+            239,
+            0,
+            239,
+            212
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/bulbasaur/03.png",
+          "source_cell": [
+            600,
+            0,
+            900,
+            299
+          ],
+          "trim_box_in_cell": [
+            52,
+            73,
+            248,
+            261
+          ],
+          "offset": [
+            21,
+            16
+          ],
+          "atlas_rect": [
+            478,
+            0,
+            239,
+            212
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/bulbasaur/04.png",
+          "source_cell": [
+            900,
+            0,
+            1200,
+            299
+          ],
+          "trim_box_in_cell": [
+            52,
+            73,
+            248,
+            261
+          ],
+          "offset": [
+            21,
+            16
+          ],
+          "atlas_rect": [
+            717,
+            0,
+            239,
+            212
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/bulbasaur/05.png",
+          "source_cell": [
+            0,
+            299,
+            300,
+            597
+          ],
+          "trim_box_in_cell": [
+            56,
+            70,
+            248,
+            262
+          ],
+          "offset": [
+            23,
+            12
+          ],
+          "atlas_rect": [
+            0,
+            212,
+            239,
+            212
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/bulbasaur/06.png",
+          "source_cell": [
+            300,
+            299,
+            600,
+            597
+          ],
+          "trim_box_in_cell": [
+            45,
+            70,
+            255,
+            262
+          ],
+          "offset": [
+            14,
+            12
+          ],
+          "atlas_rect": [
+            239,
+            212,
+            239,
+            212
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 2,
+          "file": "fotogramas/bulbasaur/07.png",
+          "source_cell": [
+            600,
+            299,
+            900,
+            597
+          ],
+          "trim_box_in_cell": [
+            55,
+            69,
+            248,
+            262
+          ],
+          "offset": [
+            23,
+            11
+          ],
+          "atlas_rect": [
+            478,
+            212,
+            239,
+            212
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 3,
+          "file": "fotogramas/bulbasaur/08.png",
+          "source_cell": [
+            900,
+            299,
+            1200,
+            597
+          ],
+          "trim_box_in_cell": [
+            56,
+            69,
+            248,
+            262
+          ],
+          "offset": [
+            23,
+            11
+          ],
+          "atlas_rect": [
+            717,
+            212,
+            239,
+            212
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 0,
+          "file": "fotogramas/bulbasaur/09.png",
+          "source_cell": [
+            0,
+            597,
+            300,
+            896
+          ],
+          "trim_box_in_cell": [
+            52,
+            76,
+            248,
+            271
+          ],
+          "offset": [
+            21,
+            9
+          ],
+          "atlas_rect": [
+            0,
+            424,
+            239,
+            212
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 1,
+          "file": "fotogramas/bulbasaur/10.png",
+          "source_cell": [
+            300,
+            597,
+            600,
+            896
+          ],
+          "trim_box_in_cell": [
+            40,
+            76,
+            263,
+            271
+          ],
+          "offset": [
+            8,
+            9
+          ],
+          "atlas_rect": [
+            239,
+            424,
+            239,
+            212
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 2,
+          "file": "fotogramas/bulbasaur/11.png",
+          "source_cell": [
+            600,
+            597,
+            900,
+            896
+          ],
+          "trim_box_in_cell": [
+            52,
+            76,
+            252,
+            271
+          ],
+          "offset": [
+            19,
+            9
+          ],
+          "atlas_rect": [
+            478,
+            424,
+            239,
+            212
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 3,
+          "file": "fotogramas/bulbasaur/12.png",
+          "source_cell": [
+            900,
+            597,
+            1200,
+            896
+          ],
+          "trim_box_in_cell": [
+            71,
+            75,
+            248,
+            271
+          ],
+          "offset": [
+            31,
+            8
+          ],
+          "atlas_rect": [
+            717,
+            424,
+            239,
+            212
+          ]
+        }
+      ]
+    },
+    "charmander": {
+      "file": "charmander.png",
+      "source_size": [
+        1200,
+        896
+      ],
+      "columns": 4,
+      "rows": 3,
+      "frame_size": [
+        239,
+        264
+      ],
+      "aligned_sheet": "hojas_alineadas/charmander.png",
+      "background_removed_percent": 71.25,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/charmander/01.png",
+          "source_cell": [
+            0,
+            0,
+            300,
+            299
+          ],
+          "trim_box_in_cell": [
+            82,
+            61,
+            272,
+            288
+          ],
+          "offset": [
+            24,
+            29
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            239,
+            264
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/charmander/02.png",
+          "source_cell": [
+            300,
+            0,
+            600,
+            299
+          ],
+          "trim_box_in_cell": [
+            82,
+            58,
+            269,
+            288
+          ],
+          "offset": [
+            26,
+            26
+          ],
+          "atlas_rect": [
+            239,
+            0,
+            239,
+            264
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/charmander/03.png",
+          "source_cell": [
+            600,
+            0,
+            900,
+            299
+          ],
+          "trim_box_in_cell": [
+            71,
+            61,
+            272,
+            288
+          ],
+          "offset": [
+            19,
+            29
+          ],
+          "atlas_rect": [
+            478,
+            0,
+            239,
+            264
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/charmander/04.png",
+          "source_cell": [
+            900,
+            0,
+            1200,
+            299
+          ],
+          "trim_box_in_cell": [
+            75,
+            61,
+            265,
+            288
+          ],
+          "offset": [
+            24,
+            29
+          ],
+          "atlas_rect": [
+            717,
+            0,
+            239,
+            264
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/charmander/05.png",
+          "source_cell": [
+            0,
+            299,
+            300,
+            597
+          ],
+          "trim_box_in_cell": [
+            56,
+            51,
+            278,
+            292
+          ],
+          "offset": [
+            8,
+            15
+          ],
+          "atlas_rect": [
+            0,
+            264,
+            239,
+            264
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/charmander/06.png",
+          "source_cell": [
+            300,
+            299,
+            600,
+            597
+          ],
+          "trim_box_in_cell": [
+            24,
+            55,
+            237,
+            292
+          ],
+          "offset": [
+            13,
+            19
+          ],
+          "atlas_rect": [
+            239,
+            264,
+            239,
+            264
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 2,
+          "file": "fotogramas/charmander/07.png",
+          "source_cell": [
+            600,
+            299,
+            900,
+            597
+          ],
+          "trim_box_in_cell": [
+            21,
+            40,
+            237,
+            288
+          ],
+          "offset": [
+            11,
+            8
+          ],
+          "atlas_rect": [
+            478,
+            264,
+            239,
+            264
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 3,
+          "file": "fotogramas/charmander/08.png",
+          "source_cell": [
+            900,
+            299,
+            1200,
+            597
+          ],
+          "trim_box_in_cell": [
+            56,
+            51,
+            279,
+            292
+          ],
+          "offset": [
+            8,
+            15
+          ],
+          "atlas_rect": [
+            717,
+            264,
+            239,
+            264
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 0,
+          "file": "fotogramas/charmander/09.png",
+          "source_cell": [
+            0,
+            597,
+            300,
+            896
+          ],
+          "trim_box_in_cell": [
+            29,
+            57,
+            237,
+            287
+          ],
+          "offset": [
+            15,
+            26
+          ],
+          "atlas_rect": [
+            0,
+            528,
+            239,
+            264
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 1,
+          "file": "fotogramas/charmander/10.png",
+          "source_cell": [
+            300,
+            597,
+            600,
+            896
+          ],
+          "trim_box_in_cell": [
+            75,
+            57,
+            275,
+            287
+          ],
+          "offset": [
+            19,
+            26
+          ],
+          "atlas_rect": [
+            239,
+            528,
+            239,
+            264
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 2,
+          "file": "fotogramas/charmander/11.png",
+          "source_cell": [
+            600,
+            597,
+            900,
+            896
+          ],
+          "trim_box_in_cell": [
+            79,
+            57,
+            282,
+            287
+          ],
+          "offset": [
+            18,
+            26
+          ],
+          "atlas_rect": [
+            478,
+            528,
+            239,
+            264
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 3,
+          "file": "fotogramas/charmander/12.png",
+          "source_cell": [
+            900,
+            597,
+            1200,
+            896
+          ],
+          "trim_box_in_cell": [
+            90,
+            57,
+            271,
+            287
+          ],
+          "offset": [
+            29,
+            26
+          ],
+          "atlas_rect": [
+            717,
+            528,
+            239,
+            264
+          ]
+        }
+      ]
+    },
+    "eevee": {
+      "file": "eevee.png",
+      "source_size": [
+        1200,
+        896
+      ],
+      "columns": 4,
+      "rows": 3,
+      "frame_size": [
+        268,
+        287
+      ],
+      "aligned_sheet": "hojas_alineadas/eevee.png",
+      "background_removed_percent": 67.07,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/eevee/01.png",
+          "source_cell": [
+            0,
+            0,
+            300,
+            299
+          ],
+          "trim_box_in_cell": [
+            56,
+            50,
+            267,
+            291
+          ],
+          "offset": [
+            28,
+            38
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            268,
+            287
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/eevee/02.png",
+          "source_cell": [
+            300,
+            0,
+            600,
+            299
+          ],
+          "trim_box_in_cell": [
+            63,
+            46,
+            263,
+            291
+          ],
+          "offset": [
+            34,
+            34
+          ],
+          "atlas_rect": [
+            268,
+            0,
+            268,
+            287
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/eevee/03.png",
+          "source_cell": [
+            600,
+            0,
+            900,
+            299
+          ],
+          "trim_box_in_cell": [
+            56,
+            42,
+            267,
+            291
+          ],
+          "offset": [
+            28,
+            30
+          ],
+          "atlas_rect": [
+            536,
+            0,
+            268,
+            287
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/eevee/04.png",
+          "source_cell": [
+            900,
+            0,
+            1200,
+            299
+          ],
+          "trim_box_in_cell": [
+            48,
+            50,
+            263,
+            291
+          ],
+          "offset": [
+            26,
+            38
+          ],
+          "atlas_rect": [
+            804,
+            0,
+            268,
+            287
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/eevee/05.png",
+          "source_cell": [
+            0,
+            299,
+            300,
+            597
+          ],
+          "trim_box_in_cell": [
+            64,
+            29,
+            267,
+            288
+          ],
+          "offset": [
+            32,
+            20
+          ],
+          "atlas_rect": [
+            0,
+            287,
+            268,
+            287
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/eevee/06.png",
+          "source_cell": [
+            300,
+            299,
+            600,
+            597
+          ],
+          "trim_box_in_cell": [
+            29,
+            44,
+            267,
+            288
+          ],
+          "offset": [
+            15,
+            35
+          ],
+          "atlas_rect": [
+            268,
+            287,
+            268,
+            287
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 2,
+          "file": "fotogramas/eevee/07.png",
+          "source_cell": [
+            600,
+            299,
+            900,
+            597
+          ],
+          "trim_box_in_cell": [
+            67,
+            10,
+            271,
+            281
+          ],
+          "offset": [
+            32,
+            8
+          ],
+          "atlas_rect": [
+            536,
+            287,
+            268,
+            287
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 3,
+          "file": "fotogramas/eevee/08.png",
+          "source_cell": [
+            900,
+            299,
+            1200,
+            597
+          ],
+          "trim_box_in_cell": [
+            60,
+            29,
+            270,
+            288
+          ],
+          "offset": [
+            29,
+            20
+          ],
+          "atlas_rect": [
+            804,
+            287,
+            268,
+            287
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 0,
+          "file": "fotogramas/eevee/09.png",
+          "source_cell": [
+            0,
+            597,
+            300,
+            896
+          ],
+          "trim_box_in_cell": [
+            41,
+            49,
+            267,
+            283
+          ],
+          "offset": [
+            21,
+            45
+          ],
+          "atlas_rect": [
+            0,
+            574,
+            268,
+            287
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 1,
+          "file": "fotogramas/eevee/10.png",
+          "source_cell": [
+            300,
+            597,
+            600,
+            896
+          ],
+          "trim_box_in_cell": [
+            41,
+            30,
+            267,
+            283
+          ],
+          "offset": [
+            21,
+            26
+          ],
+          "atlas_rect": [
+            268,
+            574,
+            268,
+            287
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 2,
+          "file": "fotogramas/eevee/11.png",
+          "source_cell": [
+            600,
+            597,
+            900,
+            896
+          ],
+          "trim_box_in_cell": [
+            0,
+            49,
+            252,
+            283
+          ],
+          "offset": [
+            8,
+            45
+          ],
+          "atlas_rect": [
+            536,
+            574,
+            268,
+            287
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 3,
+          "file": "fotogramas/eevee/12.png",
+          "source_cell": [
+            900,
+            597,
+            1200,
+            896
+          ],
+          "trim_box_in_cell": [
+            45,
+            49,
+            256,
+            283
+          ],
+          "offset": [
+            28,
+            45
+          ],
+          "atlas_rect": [
+            804,
+            574,
+            268,
+            287
+          ]
+        }
+      ]
+    },
+    "fondo_bosque_viento_1": {
+      "file": "fondo_bosque_viento_1.png",
+      "unchanged": true
+    },
+    "fondo_bosque_viento_2": {
+      "file": "fondo_bosque_viento_2.png",
+      "unchanged": true
+    },
+    "fondo_bosque_viento_3": {
+      "file": "fondo_bosque_viento_3.png",
+      "unchanged": true
+    },
+    "fondo_bosque_viento_4": {
+      "file": "fondo_bosque_viento_4.png",
+      "unchanged": true
+    },
+    "fondo_dia": {
+      "file": "fondo_dia.png",
+      "unchanged": true
+    },
+    "fondo_fiesta_1": {
+      "file": "fondo_fiesta_1.png",
+      "unchanged": true
+    },
+    "fondo_fiesta_2": {
+      "file": "fondo_fiesta_2.png",
+      "unchanged": true
+    },
+    "fondo_fiesta_3": {
+      "file": "fondo_fiesta_3.png",
+      "unchanged": true
+    },
+    "fondo_fiesta_4": {
+      "file": "fondo_fiesta_4.png",
+      "unchanged": true
+    },
+    "fondo_noche": {
+      "file": "fondo_noche.png",
+      "unchanged": true
+    },
+    "foto_referencia": {
+      "file": "foto_referencia.png",
+      "unchanged": true
+    },
+    "llama_vela_1": {
+      "file": "llama_vela_1.png",
+      "source_size": [
+        2064,
+        512
+      ],
+      "columns": 4,
+      "rows": 1,
+      "frame_size": [
+        168,
+        268
+      ],
+      "aligned_sheet": "hojas_alineadas/llama_vela_1.png",
+      "background_removed_percent": 92.6,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/llama_vela_1/01.png",
+          "source_cell": [
+            0,
+            0,
+            516,
+            512
+          ],
+          "trim_box_in_cell": [
+            192,
+            148,
+            322,
+            373
+          ],
+          "offset": [
+            19,
+            35
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            168,
+            268
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/llama_vela_1/02.png",
+          "source_cell": [
+            516,
+            0,
+            1032,
+            512
+          ],
+          "trim_box_in_cell": [
+            180,
+            157,
+            332,
+            373
+          ],
+          "offset": [
+            8,
+            44
+          ],
+          "atlas_rect": [
+            168,
+            0,
+            168,
+            268
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/llama_vela_1/03.png",
+          "source_cell": [
+            1032,
+            0,
+            1548,
+            512
+          ],
+          "trim_box_in_cell": [
+            194,
+            121,
+            312,
+            373
+          ],
+          "offset": [
+            25,
+            8
+          ],
+          "atlas_rect": [
+            336,
+            0,
+            168,
+            268
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/llama_vela_1/04.png",
+          "source_cell": [
+            1548,
+            0,
+            2064,
+            512
+          ],
+          "trim_box_in_cell": [
+            188,
+            148,
+            317,
+            373
+          ],
+          "offset": [
+            19,
+            35
+          ],
+          "atlas_rect": [
+            504,
+            0,
+            168,
+            268
+          ]
+        }
+      ]
+    },
+    "llama_vela_2": {
+      "file": "llama_vela_2.png",
+      "source_size": [
+        2064,
+        512
+      ],
+      "columns": 4,
+      "rows": 1,
+      "frame_size": [
+        158,
+        284
+      ],
+      "aligned_sheet": "hojas_alineadas/llama_vela_2.png",
+      "background_removed_percent": 92.54,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/llama_vela_2/01.png",
+          "source_cell": [
+            0,
+            0,
+            516,
+            512
+          ],
+          "trim_box_in_cell": [
+            190,
+            153,
+            324,
+            382
+          ],
+          "offset": [
+            12,
+            47
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            158,
+            284
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/llama_vela_2/02.png",
+          "source_cell": [
+            516,
+            0,
+            1032,
+            512
+          ],
+          "trim_box_in_cell": [
+            190,
+            183,
+            332,
+            382
+          ],
+          "offset": [
+            8,
+            77
+          ],
+          "atlas_rect": [
+            158,
+            0,
+            158,
+            284
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/llama_vela_2/03.png",
+          "source_cell": [
+            1032,
+            0,
+            1548,
+            512
+          ],
+          "trim_box_in_cell": [
+            183,
+            114,
+            316,
+            382
+          ],
+          "offset": [
+            12,
+            8
+          ],
+          "atlas_rect": [
+            316,
+            0,
+            158,
+            284
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/llama_vela_2/04.png",
+          "source_cell": [
+            1548,
+            0,
+            2064,
+            512
+          ],
+          "trim_box_in_cell": [
+            186,
+            163,
+            319,
+            381
+          ],
+          "offset": [
+            12,
+            58
+          ],
+          "atlas_rect": [
+            474,
+            0,
+            158,
+            284
+          ]
+        }
+      ]
+    },
+    "pastel": {
+      "file": "pastel.png",
+      "source_size": [
+        1024,
+        1024
+      ],
+      "columns": 1,
+      "rows": 1,
+      "frame_size": [
+        877,
+        816
+      ],
+      "aligned_sheet": "hojas_alineadas/pastel.png",
+      "background_removed_percent": 54.64,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/pastel/01.png",
+          "source_cell": [
+            0,
+            0,
+            1024,
+            1024
+          ],
+          "trim_box_in_cell": [
+            82,
+            143,
+            943,
+            943
+          ],
+          "offset": [
+            8,
+            8
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            877,
+            816
+          ]
+        }
+      ]
+    },
+    "pikachu": {
+      "file": "pikachu.png",
+      "source_size": [
+        1200,
+        896
+      ],
+      "columns": 4,
+      "rows": 3,
+      "frame_size": [
+        248,
+        261
+      ],
+      "aligned_sheet": "hojas_alineadas/pikachu.png",
+      "background_removed_percent": 71.59,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/pikachu/01.png",
+          "source_cell": [
+            0,
+            0,
+            300,
+            299
+          ],
+          "trim_box_in_cell": [
+            67,
+            50,
+            263,
+            269
+          ],
+          "offset": [
+            26,
+            34
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            248,
+            261
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/pikachu/02.png",
+          "source_cell": [
+            300,
+            0,
+            600,
+            299
+          ],
+          "trim_box_in_cell": [
+            78,
+            43,
+            264,
+            269
+          ],
+          "offset": [
+            31,
+            27
+          ],
+          "atlas_rect": [
+            248,
+            0,
+            248,
+            261
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/pikachu/03.png",
+          "source_cell": [
+            600,
+            0,
+            900,
+            299
+          ],
+          "trim_box_in_cell": [
+            64,
+            43,
+            260,
+            269
+          ],
+          "offset": [
+            26,
+            27
+          ],
+          "atlas_rect": [
+            496,
+            0,
+            248,
+            261
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/pikachu/04.png",
+          "source_cell": [
+            900,
+            0,
+            1200,
+            299
+          ],
+          "trim_box_in_cell": [
+            68,
+            50,
+            256,
+            269
+          ],
+          "offset": [
+            30,
+            34
+          ],
+          "atlas_rect": [
+            744,
+            0,
+            248,
+            261
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/pikachu/05.png",
+          "source_cell": [
+            0,
+            299,
+            300,
+            597
+          ],
+          "trim_box_in_cell": [
+            36,
+            29,
+            229,
+            273
+          ],
+          "offset": [
+            27,
+            9
+          ],
+          "atlas_rect": [
+            0,
+            261,
+            248,
+            261
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/pikachu/06.png",
+          "source_cell": [
+            300,
+            299,
+            600,
+            597
+          ],
+          "trim_box_in_cell": [
+            37,
+            32,
+            226,
+            273
+          ],
+          "offset": [
+            29,
+            12
+          ],
+          "atlas_rect": [
+            248,
+            261,
+            248,
+            261
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 2,
+          "file": "fotogramas/pikachu/07.png",
+          "source_cell": [
+            600,
+            299,
+            900,
+            597
+          ],
+          "trim_box_in_cell": [
+            67,
+            29,
+            260,
+            273
+          ],
+          "offset": [
+            27,
+            9
+          ],
+          "atlas_rect": [
+            496,
+            261,
+            248,
+            261
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 3,
+          "file": "fotogramas/pikachu/08.png",
+          "source_cell": [
+            900,
+            299,
+            1200,
+            597
+          ],
+          "trim_box_in_cell": [
+            60,
+            40,
+            271,
+            273
+          ],
+          "offset": [
+            18,
+            20
+          ],
+          "atlas_rect": [
+            744,
+            261,
+            248,
+            261
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 0,
+          "file": "fotogramas/pikachu/09.png",
+          "source_cell": [
+            0,
+            597,
+            300,
+            896
+          ],
+          "trim_box_in_cell": [
+            74,
+            53,
+            267,
+            283
+          ],
+          "offset": [
+            27,
+            23
+          ],
+          "atlas_rect": [
+            0,
+            522,
+            248,
+            261
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 1,
+          "file": "fotogramas/pikachu/10.png",
+          "source_cell": [
+            300,
+            597,
+            600,
+            896
+          ],
+          "trim_box_in_cell": [
+            55,
+            38,
+            287,
+            283
+          ],
+          "offset": [
+            8,
+            8
+          ],
+          "atlas_rect": [
+            248,
+            522,
+            248,
+            261
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 2,
+          "file": "fotogramas/pikachu/11.png",
+          "source_cell": [
+            600,
+            597,
+            900,
+            896
+          ],
+          "trim_box_in_cell": [
+            63,
+            45,
+            270,
+            283
+          ],
+          "offset": [
+            20,
+            15
+          ],
+          "atlas_rect": [
+            496,
+            522,
+            248,
+            261
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 3,
+          "file": "fotogramas/pikachu/12.png",
+          "source_cell": [
+            900,
+            597,
+            1200,
+            896
+          ],
+          "trim_box_in_cell": [
+            86,
+            45,
+            267,
+            282
+          ],
+          "offset": [
+            33,
+            16
+          ],
+          "atlas_rect": [
+            744,
+            522,
+            248,
+            261
+          ]
+        }
+      ]
+    },
+    "psyduck": {
+      "file": "psyduck.png",
+      "source_size": [
+        1200,
+        896
+      ],
+      "columns": 4,
+      "rows": 3,
+      "frame_size": [
+        253,
+        280
+      ],
+      "aligned_sheet": "hojas_alineadas/psyduck.png",
+      "background_removed_percent": 67.17,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/psyduck/01.png",
+          "source_cell": [
+            0,
+            0,
+            300,
+            299
+          ],
+          "trim_box_in_cell": [
+            50,
+            38,
+            249,
+            270
+          ],
+          "offset": [
+            27,
+            40
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            253,
+            280
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/psyduck/02.png",
+          "source_cell": [
+            300,
+            0,
+            600,
+            299
+          ],
+          "trim_box_in_cell": [
+            53,
+            38,
+            253,
+            270
+          ],
+          "offset": [
+            26,
+            40
+          ],
+          "atlas_rect": [
+            253,
+            0,
+            253,
+            280
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/psyduck/03.png",
+          "source_cell": [
+            600,
+            0,
+            900,
+            299
+          ],
+          "trim_box_in_cell": [
+            68,
+            37,
+            236,
+            269
+          ],
+          "offset": [
+            42,
+            40
+          ],
+          "atlas_rect": [
+            506,
+            0,
+            253,
+            280
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/psyduck/04.png",
+          "source_cell": [
+            900,
+            0,
+            1200,
+            299
+          ],
+          "trim_box_in_cell": [
+            51,
+            38,
+            251,
+            270
+          ],
+          "offset": [
+            26,
+            40
+          ],
+          "atlas_rect": [
+            759,
+            0,
+            253,
+            280
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/psyduck/05.png",
+          "source_cell": [
+            0,
+            299,
+            300,
+            597
+          ],
+          "trim_box_in_cell": [
+            45,
+            35,
+            259,
+            285
+          ],
+          "offset": [
+            19,
+            22
+          ],
+          "atlas_rect": [
+            0,
+            280,
+            253,
+            280
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/psyduck/06.png",
+          "source_cell": [
+            300,
+            299,
+            600,
+            597
+          ],
+          "trim_box_in_cell": [
+            41,
+            36,
+            256,
+            285
+          ],
+          "offset": [
+            19,
+            23
+          ],
+          "atlas_rect": [
+            253,
+            280,
+            253,
+            280
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 2,
+          "file": "fotogramas/psyduck/07.png",
+          "source_cell": [
+            600,
+            299,
+            900,
+            597
+          ],
+          "trim_box_in_cell": [
+            33,
+            28,
+            270,
+            292
+          ],
+          "offset": [
+            8,
+            8
+          ],
+          "atlas_rect": [
+            506,
+            280,
+            253,
+            280
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 3,
+          "file": "fotogramas/psyduck/08.png",
+          "source_cell": [
+            900,
+            299,
+            1200,
+            597
+          ],
+          "trim_box_in_cell": [
+            45,
+            35,
+            259,
+            285
+          ],
+          "offset": [
+            19,
+            22
+          ],
+          "atlas_rect": [
+            759,
+            280,
+            253,
+            280
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 0,
+          "file": "fotogramas/psyduck/09.png",
+          "source_cell": [
+            0,
+            597,
+            300,
+            896
+          ],
+          "trim_box_in_cell": [
+            52,
+            49,
+            252,
+            287
+          ],
+          "offset": [
+            26,
+            34
+          ],
+          "atlas_rect": [
+            0,
+            560,
+            253,
+            280
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 1,
+          "file": "fotogramas/psyduck/10.png",
+          "source_cell": [
+            300,
+            597,
+            600,
+            896
+          ],
+          "trim_box_in_cell": [
+            48,
+            49,
+            251,
+            287
+          ],
+          "offset": [
+            25,
+            34
+          ],
+          "atlas_rect": [
+            253,
+            560,
+            253,
+            280
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 2,
+          "file": "fotogramas/psyduck/11.png",
+          "source_cell": [
+            600,
+            597,
+            900,
+            896
+          ],
+          "trim_box_in_cell": [
+            44,
+            49,
+            259,
+            287
+          ],
+          "offset": [
+            19,
+            34
+          ],
+          "atlas_rect": [
+            506,
+            560,
+            253,
+            280
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 3,
+          "file": "fotogramas/psyduck/12.png",
+          "source_cell": [
+            900,
+            597,
+            1200,
+            896
+          ],
+          "trim_box_in_cell": [
+            75,
+            49,
+            233,
+            287
+          ],
+          "offset": [
+            47,
+            34
+          ],
+          "atlas_rect": [
+            759,
+            560,
+            253,
+            280
+          ]
+        }
+      ]
+    },
+    "regalos": {
+      "file": "regalos.png",
+      "source_size": [
+        1024,
+        1024
+      ],
+      "columns": 2,
+      "rows": 2,
+      "frame_size": [
+        365,
+        375
+      ],
+      "aligned_sheet": "hojas_alineadas/regalos.png",
+      "background_removed_percent": 69.69,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/regalos/01.png",
+          "source_cell": [
+            0,
+            0,
+            512,
+            512
+          ],
+          "trim_box_in_cell": [
+            102,
+            92,
+            410,
+            420
+          ],
+          "offset": [
+            28,
+            39
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            365,
+            375
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/regalos/02.png",
+          "source_cell": [
+            512,
+            0,
+            1024,
+            512
+          ],
+          "trim_box_in_cell": [
+            102,
+            92,
+            410,
+            420
+          ],
+          "offset": [
+            28,
+            39
+          ],
+          "atlas_rect": [
+            365,
+            0,
+            365,
+            375
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/regalos/03.png",
+          "source_cell": [
+            0,
+            512,
+            512,
+            1024
+          ],
+          "trim_box_in_cell": [
+            92,
+            92,
+            420,
+            430
+          ],
+          "offset": [
+            18,
+            29
+          ],
+          "atlas_rect": [
+            0,
+            375,
+            365,
+            375
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/regalos/04.png",
+          "source_cell": [
+            512,
+            512,
+            1024,
+            1024
+          ],
+          "trim_box_in_cell": [
+            82,
+            71,
+            431,
+            430
+          ],
+          "offset": [
+            8,
+            8
+          ],
+          "atlas_rect": [
+            365,
+            375,
+            365,
+            375
+          ]
+        }
+      ]
+    },
+    "sebas_frente": {
+      "file": "sebas_frente.png",
+      "source_size": [
+        1200,
+        896
+      ],
+      "columns": 4,
+      "rows": 3,
+      "frame_size": [
+        230,
+        302
+      ],
+      "aligned_sheet": "hojas_alineadas/sebas_frente.png",
+      "background_removed_percent": 75.94,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/sebas_frente/01.png",
+          "source_cell": [
+            0,
+            0,
+            300,
+            299
+          ],
+          "trim_box_in_cell": [
+            65,
+            43,
+            230,
+            299
+          ],
+          "offset": [
+            32,
+            38
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            230,
+            302
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/sebas_frente/02.png",
+          "source_cell": [
+            300,
+            0,
+            600,
+            299
+          ],
+          "trim_box_in_cell": [
+            70,
+            38,
+            235,
+            299
+          ],
+          "offset": [
+            32,
+            33
+          ],
+          "atlas_rect": [
+            230,
+            0,
+            230,
+            302
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/sebas_frente/03.png",
+          "source_cell": [
+            600,
+            0,
+            900,
+            299
+          ],
+          "trim_box_in_cell": [
+            65,
+            43,
+            230,
+            299
+          ],
+          "offset": [
+            32,
+            38
+          ],
+          "atlas_rect": [
+            460,
+            0,
+            230,
+            302
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/sebas_frente/04.png",
+          "source_cell": [
+            900,
+            0,
+            1200,
+            299
+          ],
+          "trim_box_in_cell": [
+            70,
+            42,
+            235,
+            299
+          ],
+          "offset": [
+            32,
+            37
+          ],
+          "atlas_rect": [
+            690,
+            0,
+            230,
+            302
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/sebas_frente/05.png",
+          "source_cell": [
+            0,
+            299,
+            300,
+            597
+          ],
+          "trim_box_in_cell": [
+            84,
+            34,
+            240,
+            298
+          ],
+          "offset": [
+            37,
+            30
+          ],
+          "atlas_rect": [
+            0,
+            302,
+            230,
+            302
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/sebas_frente/06.png",
+          "source_cell": [
+            300,
+            299,
+            600,
+            597
+          ],
+          "trim_box_in_cell": [
+            80,
+            33,
+            230,
+            298
+          ],
+          "offset": [
+            40,
+            29
+          ],
+          "atlas_rect": [
+            230,
+            302,
+            230,
+            302
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 2,
+          "file": "fotogramas/sebas_frente/07.png",
+          "source_cell": [
+            600,
+            299,
+            900,
+            597
+          ],
+          "trim_box_in_cell": [
+            65,
+            24,
+            231,
+            285
+          ],
+          "offset": [
+            32,
+            33
+          ],
+          "atlas_rect": [
+            460,
+            302,
+            230,
+            302
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 3,
+          "file": "fotogramas/sebas_frente/08.png",
+          "source_cell": [
+            900,
+            299,
+            1200,
+            597
+          ],
+          "trim_box_in_cell": [
+            80,
+            33,
+            216,
+            298
+          ],
+          "offset": [
+            47,
+            29
+          ],
+          "atlas_rect": [
+            690,
+            302,
+            230,
+            302
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 0,
+          "file": "fotogramas/sebas_frente/09.png",
+          "source_cell": [
+            0,
+            597,
+            300,
+            896
+          ],
+          "trim_box_in_cell": [
+            46,
+            1,
+            260,
+            287
+          ],
+          "offset": [
+            8,
+            8
+          ],
+          "atlas_rect": [
+            0,
+            604,
+            230,
+            302
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 1,
+          "file": "fotogramas/sebas_frente/10.png",
+          "source_cell": [
+            300,
+            597,
+            600,
+            896
+          ],
+          "trim_box_in_cell": [
+            60,
+            1,
+            240,
+            287
+          ],
+          "offset": [
+            25,
+            8
+          ],
+          "atlas_rect": [
+            230,
+            604,
+            230,
+            302
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 2,
+          "file": "fotogramas/sebas_frente/11.png",
+          "source_cell": [
+            600,
+            597,
+            900,
+            896
+          ],
+          "trim_box_in_cell": [
+            41,
+            1,
+            240,
+            287
+          ],
+          "offset": [
+            15,
+            8
+          ],
+          "atlas_rect": [
+            460,
+            604,
+            230,
+            302
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 3,
+          "file": "fotogramas/sebas_frente/12.png",
+          "source_cell": [
+            900,
+            597,
+            1200,
+            896
+          ],
+          "trim_box_in_cell": [
+            40,
+            1,
+            240,
+            287
+          ],
+          "offset": [
+            15,
+            8
+          ],
+          "atlas_rect": [
+            690,
+            604,
+            230,
+            302
+          ]
+        }
+      ]
+    },
+    "sebas_lateral": {
+      "file": "sebas_lateral.png",
+      "source_size": [
+        1376,
+        768
+      ],
+      "columns": 6,
+      "rows": 2,
+      "frame_size": [
+        212,
+        344
+      ],
+      "aligned_sheet": "hojas_alineadas/sebas_lateral.png",
+      "background_removed_percent": 77.16,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/sebas_lateral/01.png",
+          "source_cell": [
+            0,
+            0,
+            229,
+            384
+          ],
+          "trim_box_in_cell": [
+            63,
+            83,
+            218,
+            341
+          ],
+          "offset": [
+            28,
+            78
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            212,
+            344
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/sebas_lateral/02.png",
+          "source_cell": [
+            229,
+            0,
+            459,
+            384
+          ],
+          "trim_box_in_cell": [
+            40,
+            83,
+            196,
+            341
+          ],
+          "offset": [
+            28,
+            78
+          ],
+          "atlas_rect": [
+            212,
+            0,
+            212,
+            344
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/sebas_lateral/03.png",
+          "source_cell": [
+            459,
+            0,
+            688,
+            384
+          ],
+          "trim_box_in_cell": [
+            28,
+            83,
+            189,
+            384
+          ],
+          "offset": [
+            25,
+            35
+          ],
+          "atlas_rect": [
+            424,
+            0,
+            212,
+            344
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/sebas_lateral/04.png",
+          "source_cell": [
+            688,
+            0,
+            917,
+            384
+          ],
+          "trim_box_in_cell": [
+            28,
+            83,
+            184,
+            341
+          ],
+          "offset": [
+            28,
+            78
+          ],
+          "atlas_rect": [
+            636,
+            0,
+            212,
+            344
+          ]
+        },
+        {
+          "index": 5,
+          "row": 0,
+          "column": 4,
+          "file": "fotogramas/sebas_lateral/05.png",
+          "source_cell": [
+            917,
+            0,
+            1147,
+            384
+          ],
+          "trim_box_in_cell": [
+            23,
+            83,
+            173,
+            341
+          ],
+          "offset": [
+            31,
+            78
+          ],
+          "atlas_rect": [
+            848,
+            0,
+            212,
+            344
+          ]
+        },
+        {
+          "index": 6,
+          "row": 0,
+          "column": 5,
+          "file": "fotogramas/sebas_lateral/06.png",
+          "source_cell": [
+            1147,
+            0,
+            1376,
+            384
+          ],
+          "trim_box_in_cell": [
+            11,
+            83,
+            155,
+            341
+          ],
+          "offset": [
+            34,
+            78
+          ],
+          "atlas_rect": [
+            1060,
+            0,
+            212,
+            344
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/sebas_lateral/07.png",
+          "source_cell": [
+            0,
+            384,
+            229,
+            768
+          ],
+          "trim_box_in_cell": [
+            58,
+            71,
+            207,
+            342
+          ],
+          "offset": [
+            31,
+            65
+          ],
+          "atlas_rect": [
+            0,
+            344,
+            212,
+            344
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/sebas_lateral/08.png",
+          "source_cell": [
+            229,
+            384,
+            459,
+            768
+          ],
+          "trim_box_in_cell": [
+            57,
+            14,
+            190,
+            342
+          ],
+          "offset": [
+            39,
+            8
+          ],
+          "atlas_rect": [
+            212,
+            344,
+            212,
+            344
+          ]
+        },
+        {
+          "index": 9,
+          "row": 1,
+          "column": 2,
+          "file": "fotogramas/sebas_lateral/09.png",
+          "source_cell": [
+            459,
+            384,
+            688,
+            768
+          ],
+          "trim_box_in_cell": [
+            22,
+            0,
+            218,
+            238
+          ],
+          "offset": [
+            8,
+            98
+          ],
+          "atlas_rect": [
+            424,
+            344,
+            212,
+            344
+          ]
+        },
+        {
+          "index": 10,
+          "row": 1,
+          "column": 3,
+          "file": "fotogramas/sebas_lateral/10.png",
+          "source_cell": [
+            688,
+            384,
+            917,
+            768
+          ],
+          "trim_box_in_cell": [
+            28,
+            31,
+            178,
+            342
+          ],
+          "offset": [
+            31,
+            25
+          ],
+          "atlas_rect": [
+            636,
+            344,
+            212,
+            344
+          ]
+        },
+        {
+          "index": 11,
+          "row": 1,
+          "column": 4,
+          "file": "fotogramas/sebas_lateral/11.png",
+          "source_cell": [
+            917,
+            384,
+            1147,
+            768
+          ],
+          "trim_box_in_cell": [
+            12,
+            89,
+            207,
+            342
+          ],
+          "offset": [
+            8,
+            83
+          ],
+          "atlas_rect": [
+            848,
+            344,
+            212,
+            344
+          ]
+        },
+        {
+          "index": 12,
+          "row": 1,
+          "column": 5,
+          "file": "fotogramas/sebas_lateral/12.png",
+          "source_cell": [
+            1147,
+            384,
+            1376,
+            768
+          ],
+          "trim_box_in_cell": [
+            16,
+            89,
+            160,
+            342
+          ],
+          "offset": [
+            34,
+            83
+          ],
+          "atlas_rect": [
+            1060,
+            344,
+            212,
+            344
+          ]
+        }
+      ]
+    },
+    "sprite_invitado": {
+      "file": "sprite_invitado.png",
+      "source_size": [
+        1200,
+        896
+      ],
+      "columns": 4,
+      "rows": 3,
+      "frame_size": [
+        223,
+        299
+      ],
+      "aligned_sheet": "hojas_alineadas/sprite_invitado.png",
+      "background_removed_percent": 76.32,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/sprite_invitado/01.png",
+          "source_cell": [
+            0,
+            0,
+            300,
+            299
+          ],
+          "trim_box_in_cell": [
+            93,
+            44,
+            202,
+            299
+          ],
+          "offset": [
+            57,
+            36
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            223,
+            299
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/sprite_invitado/02.png",
+          "source_cell": [
+            300,
+            0,
+            600,
+            299
+          ],
+          "trim_box_in_cell": [
+            93,
+            44,
+            202,
+            299
+          ],
+          "offset": [
+            57,
+            36
+          ],
+          "atlas_rect": [
+            223,
+            0,
+            223,
+            299
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/sprite_invitado/03.png",
+          "source_cell": [
+            600,
+            0,
+            900,
+            299
+          ],
+          "trim_box_in_cell": [
+            84,
+            44,
+            221,
+            299
+          ],
+          "offset": [
+            43,
+            36
+          ],
+          "atlas_rect": [
+            446,
+            0,
+            223,
+            299
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/sprite_invitado/04.png",
+          "source_cell": [
+            900,
+            0,
+            1200,
+            299
+          ],
+          "trim_box_in_cell": [
+            88,
+            45,
+            197,
+            299
+          ],
+          "offset": [
+            57,
+            37
+          ],
+          "atlas_rect": [
+            669,
+            0,
+            223,
+            299
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/sprite_invitado/05.png",
+          "source_cell": [
+            0,
+            299,
+            300,
+            597
+          ],
+          "trim_box_in_cell": [
+            74,
+            41,
+            235,
+            298
+          ],
+          "offset": [
+            31,
+            34
+          ],
+          "atlas_rect": [
+            0,
+            299,
+            223,
+            299
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/sprite_invitado/06.png",
+          "source_cell": [
+            300,
+            299,
+            600,
+            597
+          ],
+          "trim_box_in_cell": [
+            65,
+            41,
+            240,
+            298
+          ],
+          "offset": [
+            24,
+            34
+          ],
+          "atlas_rect": [
+            223,
+            299,
+            223,
+            299
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 2,
+          "file": "fotogramas/sprite_invitado/07.png",
+          "source_cell": [
+            600,
+            299,
+            900,
+            597
+          ],
+          "trim_box_in_cell": [
+            60,
+            31,
+            239,
+            298
+          ],
+          "offset": [
+            22,
+            24
+          ],
+          "atlas_rect": [
+            446,
+            299,
+            223,
+            299
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 3,
+          "file": "fotogramas/sprite_invitado/08.png",
+          "source_cell": [
+            900,
+            299,
+            1200,
+            597
+          ],
+          "trim_box_in_cell": [
+            56,
+            41,
+            216,
+            298
+          ],
+          "offset": [
+            31,
+            34
+          ],
+          "atlas_rect": [
+            669,
+            299,
+            223,
+            299
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 0,
+          "file": "fotogramas/sprite_invitado/09.png",
+          "source_cell": [
+            0,
+            597,
+            300,
+            896
+          ],
+          "trim_box_in_cell": [
+            103,
+            0,
+            244,
+            283
+          ],
+          "offset": [
+            41,
+            8
+          ],
+          "atlas_rect": [
+            0,
+            598,
+            223,
+            299
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 1,
+          "file": "fotogramas/sprite_invitado/10.png",
+          "source_cell": [
+            300,
+            597,
+            600,
+            896
+          ],
+          "trim_box_in_cell": [
+            103,
+            0,
+            235,
+            283
+          ],
+          "offset": [
+            45,
+            8
+          ],
+          "atlas_rect": [
+            223,
+            598,
+            223,
+            299
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 2,
+          "file": "fotogramas/sprite_invitado/11.png",
+          "source_cell": [
+            600,
+            597,
+            900,
+            896
+          ],
+          "trim_box_in_cell": [
+            46,
+            0,
+            253,
+            283
+          ],
+          "offset": [
+            8,
+            8
+          ],
+          "atlas_rect": [
+            446,
+            598,
+            223,
+            299
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 3,
+          "file": "fotogramas/sprite_invitado/12.png",
+          "source_cell": [
+            900,
+            597,
+            1200,
+            896
+          ],
+          "trim_box_in_cell": [
+            75,
+            0,
+            207,
+            283
+          ],
+          "offset": [
+            45,
+            8
+          ],
+          "atlas_rect": [
+            669,
+            598,
+            223,
+            299
+          ]
+        }
+      ]
+    },
+    "squirtle_frente": {
+      "file": "squirtle_frente.png",
+      "source_size": [
+        1200,
+        896
+      ],
+      "columns": 4,
+      "rows": 3,
+      "frame_size": [
+        262,
+        242
+      ],
+      "aligned_sheet": "hojas_alineadas/squirtle_frente.png",
+      "background_removed_percent": 69.79,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/squirtle_frente/01.png",
+          "source_cell": [
+            0,
+            0,
+            300,
+            299
+          ],
+          "trim_box_in_cell": [
+            37,
+            61,
+            252,
+            276
+          ],
+          "offset": [
+            23,
+            19
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            262,
+            242
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/squirtle_frente/02.png",
+          "source_cell": [
+            300,
+            0,
+            600,
+            299
+          ],
+          "trim_box_in_cell": [
+            33,
+            61,
+            248,
+            276
+          ],
+          "offset": [
+            23,
+            19
+          ],
+          "atlas_rect": [
+            262,
+            0,
+            262,
+            242
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/squirtle_frente/03.png",
+          "source_cell": [
+            600,
+            0,
+            900,
+            299
+          ],
+          "trim_box_in_cell": [
+            41,
+            57,
+            252,
+            283
+          ],
+          "offset": [
+            25,
+            8
+          ],
+          "atlas_rect": [
+            524,
+            0,
+            262,
+            242
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/squirtle_frente/04.png",
+          "source_cell": [
+            900,
+            0,
+            1200,
+            299
+          ],
+          "trim_box_in_cell": [
+            33,
+            61,
+            248,
+            276
+          ],
+          "offset": [
+            23,
+            19
+          ],
+          "atlas_rect": [
+            786,
+            0,
+            262,
+            242
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/squirtle_frente/05.png",
+          "source_cell": [
+            0,
+            299,
+            300,
+            597
+          ],
+          "trim_box_in_cell": [
+            33,
+            51,
+            267,
+            270
+          ],
+          "offset": [
+            14,
+            15
+          ],
+          "atlas_rect": [
+            0,
+            242,
+            262,
+            242
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/squirtle_frente/06.png",
+          "source_cell": [
+            300,
+            299,
+            600,
+            597
+          ],
+          "trim_box_in_cell": [
+            30,
+            51,
+            263,
+            266
+          ],
+          "offset": [
+            14,
+            19
+          ],
+          "atlas_rect": [
+            262,
+            242,
+            262,
+            242
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 2,
+          "file": "fotogramas/squirtle_frente/07.png",
+          "source_cell": [
+            600,
+            299,
+            900,
+            597
+          ],
+          "trim_box_in_cell": [
+            33,
+            51,
+            267,
+            266
+          ],
+          "offset": [
+            14,
+            19
+          ],
+          "atlas_rect": [
+            524,
+            242,
+            262,
+            242
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 3,
+          "file": "fotogramas/squirtle_frente/08.png",
+          "source_cell": [
+            900,
+            299,
+            1200,
+            597
+          ],
+          "trim_box_in_cell": [
+            29,
+            51,
+            263,
+            269
+          ],
+          "offset": [
+            14,
+            16
+          ],
+          "atlas_rect": [
+            786,
+            242,
+            262,
+            242
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 0,
+          "file": "fotogramas/squirtle_frente/09.png",
+          "source_cell": [
+            0,
+            597,
+            300,
+            896
+          ],
+          "trim_box_in_cell": [
+            41,
+            64,
+            259,
+            275
+          ],
+          "offset": [
+            22,
+            23
+          ],
+          "atlas_rect": [
+            0,
+            484,
+            262,
+            242
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 1,
+          "file": "fotogramas/squirtle_frente/10.png",
+          "source_cell": [
+            300,
+            597,
+            600,
+            896
+          ],
+          "trim_box_in_cell": [
+            29,
+            57,
+            275,
+            272
+          ],
+          "offset": [
+            8,
+            19
+          ],
+          "atlas_rect": [
+            262,
+            484,
+            262,
+            242
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 2,
+          "file": "fotogramas/squirtle_frente/11.png",
+          "source_cell": [
+            600,
+            597,
+            900,
+            896
+          ],
+          "trim_box_in_cell": [
+            29,
+            57,
+            255,
+            272
+          ],
+          "offset": [
+            18,
+            19
+          ],
+          "atlas_rect": [
+            524,
+            484,
+            262,
+            242
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 3,
+          "file": "fotogramas/squirtle_frente/12.png",
+          "source_cell": [
+            900,
+            597,
+            1200,
+            896
+          ],
+          "trim_box_in_cell": [
+            26,
+            61,
+            237,
+            275
+          ],
+          "offset": [
+            25,
+            20
+          ],
+          "atlas_rect": [
+            786,
+            484,
+            262,
+            242
+          ]
+        }
+      ]
+    },
+    "squirtle_lateral": {
+      "file": "squirtle_lateral.png",
+      "source_size": [
+        1200,
+        896
+      ],
+      "columns": 4,
+      "rows": 3,
+      "frame_size": [
+        242,
+        246
+      ],
+      "aligned_sheet": "hojas_alineadas/squirtle_lateral.png",
+      "background_removed_percent": 70.04,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/squirtle_lateral/01.png",
+          "source_cell": [
+            0,
+            0,
+            300,
+            299
+          ],
+          "trim_box_in_cell": [
+            37,
+            61,
+            237,
+            276
+          ],
+          "offset": [
+            21,
+            23
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            242,
+            246
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/squirtle_lateral/02.png",
+          "source_cell": [
+            300,
+            0,
+            600,
+            299
+          ],
+          "trim_box_in_cell": [
+            34,
+            61,
+            229,
+            276
+          ],
+          "offset": [
+            23,
+            23
+          ],
+          "atlas_rect": [
+            242,
+            0,
+            242,
+            246
+          ]
+        },
+        {
+          "index": 3,
+          "row": 0,
+          "column": 2,
+          "file": "fotogramas/squirtle_lateral/03.png",
+          "source_cell": [
+            600,
+            0,
+            900,
+            299
+          ],
+          "trim_box_in_cell": [
+            37,
+            61,
+            237,
+            276
+          ],
+          "offset": [
+            21,
+            23
+          ],
+          "atlas_rect": [
+            484,
+            0,
+            242,
+            246
+          ]
+        },
+        {
+          "index": 4,
+          "row": 0,
+          "column": 3,
+          "file": "fotogramas/squirtle_lateral/04.png",
+          "source_cell": [
+            900,
+            0,
+            1200,
+            299
+          ],
+          "trim_box_in_cell": [
+            33,
+            61,
+            233,
+            276
+          ],
+          "offset": [
+            21,
+            23
+          ],
+          "atlas_rect": [
+            726,
+            0,
+            242,
+            246
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/squirtle_lateral/05.png",
+          "source_cell": [
+            0,
+            299,
+            300,
+            597
+          ],
+          "trim_box_in_cell": [
+            33,
+            51,
+            252,
+            270
+          ],
+          "offset": [
+            11,
+            19
+          ],
+          "atlas_rect": [
+            0,
+            246,
+            242,
+            246
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/squirtle_lateral/06.png",
+          "source_cell": [
+            300,
+            299,
+            600,
+            597
+          ],
+          "trim_box_in_cell": [
+            30,
+            51,
+            252,
+            266
+          ],
+          "offset": [
+            10,
+            23
+          ],
+          "atlas_rect": [
+            242,
+            246,
+            242,
+            246
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 2,
+          "file": "fotogramas/squirtle_lateral/07.png",
+          "source_cell": [
+            600,
+            299,
+            900,
+            597
+          ],
+          "trim_box_in_cell": [
+            33,
+            51,
+            252,
+            262
+          ],
+          "offset": [
+            11,
+            27
+          ],
+          "atlas_rect": [
+            484,
+            246,
+            242,
+            246
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 3,
+          "file": "fotogramas/squirtle_lateral/08.png",
+          "source_cell": [
+            900,
+            299,
+            1200,
+            597
+          ],
+          "trim_box_in_cell": [
+            29,
+            51,
+            248,
+            270
+          ],
+          "offset": [
+            11,
+            19
+          ],
+          "atlas_rect": [
+            726,
+            246,
+            242,
+            246
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 0,
+          "file": "fotogramas/squirtle_lateral/09.png",
+          "source_cell": [
+            0,
+            597,
+            300,
+            896
+          ],
+          "trim_box_in_cell": [
+            41,
+            68,
+            259,
+            275
+          ],
+          "offset": [
+            12,
+            31
+          ],
+          "atlas_rect": [
+            0,
+            492,
+            242,
+            246
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 1,
+          "file": "fotogramas/squirtle_lateral/10.png",
+          "source_cell": [
+            300,
+            597,
+            600,
+            896
+          ],
+          "trim_box_in_cell": [
+            37,
+            16,
+            256,
+            245
+          ],
+          "offset": [
+            11,
+            9
+          ],
+          "atlas_rect": [
+            242,
+            492,
+            242,
+            246
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 2,
+          "file": "fotogramas/squirtle_lateral/11.png",
+          "source_cell": [
+            600,
+            597,
+            900,
+            896
+          ],
+          "trim_box_in_cell": [
+            33,
+            4,
+            248,
+            234
+          ],
+          "offset": [
+            13,
+            8
+          ],
+          "atlas_rect": [
+            484,
+            492,
+            242,
+            246
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 3,
+          "file": "fotogramas/squirtle_lateral/12.png",
+          "source_cell": [
+            900,
+            597,
+            1200,
+            896
+          ],
+          "trim_box_in_cell": [
+            26,
+            61,
+            252,
+            275
+          ],
+          "offset": [
+            8,
+            24
+          ],
+          "atlas_rect": [
+            726,
+            492,
+            242,
+            246
+          ]
+        }
+      ]
+    },
+    "tileset": {
+      "file": "tileset.png",
+      "source_size": [
+        1024,
+        1024
+      ],
+      "columns": 2,
+      "rows": 2,
+      "frame_size": [
+        512,
+        512
+      ],
+      "aligned_sheet": "hojas_alineadas/tileset.png",
+      "background_removed_percent": 30.36,
+      "frames": [
+        {
+          "index": 1,
+          "row": 0,
+          "column": 0,
+          "file": "fotogramas/tileset/01.png",
+          "source_cell": [
+            0,
+            0,
+            512,
+            512
+          ],
+          "trim_box_in_cell": [
+            0,
+            51,
+            512,
+            511
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "atlas_rect": [
+            0,
+            0,
+            512,
+            512
+          ]
+        },
+        {
+          "index": 2,
+          "row": 0,
+          "column": 1,
+          "file": "fotogramas/tileset/02.png",
+          "source_cell": [
+            512,
+            0,
+            1024,
+            512
+          ],
+          "trim_box_in_cell": [
+            0,
+            0,
+            512,
+            512
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "atlas_rect": [
+            512,
+            0,
+            512,
+            512
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 0,
+          "file": "fotogramas/tileset/03.png",
+          "source_cell": [
+            0,
+            512,
+            512,
+            1024
+          ],
+          "trim_box_in_cell": [
+            0,
+            164,
+            512,
+            512
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "atlas_rect": [
+            0,
+            512,
+            512,
+            512
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 1,
+          "file": "fotogramas/tileset/04.png",
+          "source_cell": [
+            512,
+            512,
+            1024,
+            1024
+          ],
+          "trim_box_in_cell": [
+            0,
+            168,
+            512,
+            512
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "atlas_rect": [
+            512,
+            512,
+            512,
+            512
+          ]
+        }
+      ]
+    }
+  }
+}
